@@ -46,7 +46,7 @@ export const data = [
   },
   {
     id: 6,
-    src: "https://images.pexels.com/photos/6025811/pexels-photo-6025811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://images.pexels.com/photos/1352251/pexels-photo-1352251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     alt: "Delicious Ice Cream",
     headline: "Creamy Ice Cream",
     paragraph:
