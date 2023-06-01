@@ -44,7 +44,7 @@ const Hero = () => {
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-center z-[2] space-y-5">
                 <h1
                   data-swiper-parallax="-300%"
-                  className="text-8xl font-semibold"
+                  className="text-7xl lg:text-8xl font-semibold"
                 >
                   {item.headline}
                 </h1>
@@ -54,7 +54,7 @@ const Hero = () => {
                 <div data-swiper-parallax="-600%">
                   <Link
                     href="/products"
-                    className="btn btn-secondary btn-active text-white hover:bg-[#fb7185] duration-300"
+                    className="btn btn-secondary btn-active text-white darkButton duration-300"
                   >
                     {item.cta}
                   </Link>
